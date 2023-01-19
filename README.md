@@ -1,2 +1,2 @@
-# Dik-gende-Hipoten-s-Bulan-Program
+# Dik ücgende-Hipotenüs-Bulan-Program
 Ödev
